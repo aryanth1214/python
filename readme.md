@@ -1,6 +1,6 @@
 Lecture 1 :
 
- Introduction 00:00
+Introduction 00:00
 00:41 - Introduction to Python ==> Done
 08:01 - Python Installation (Windows)   ==> Done
 09:26 - Python Installation (Mac)   ==> Done
